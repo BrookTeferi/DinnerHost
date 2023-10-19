@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DinnerHost.Application/1.0.0": {
+        "dependencies": {
+          "DinnerHost.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DinnerHost.Application.dll": {}
+        }
+      },
+      "DinnerHost.Domain/1.0.0": {
+        "runtime": {
+          "DinnerHost.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DinnerHost.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DinnerHost.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

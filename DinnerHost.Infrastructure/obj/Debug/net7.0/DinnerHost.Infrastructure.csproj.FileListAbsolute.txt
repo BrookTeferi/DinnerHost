@@ -1,0 +1,17 @@
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\bin\Debug\net7.0\DinnerHost.Infrastructure.deps.json
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\bin\Debug\net7.0\DinnerHost.Infrastructure.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\bin\Debug\net7.0\DinnerHost.Infrastructure.pdb
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\bin\Debug\net7.0\DinnerHost.Application.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\bin\Debug\net7.0\DinnerHost.Domain.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\bin\Debug\net7.0\DinnerHost.Application.pdb
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\bin\Debug\net7.0\DinnerHost.Domain.pdb
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\DinnerHost.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\DinnerHost.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\DinnerHost.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\DinnerHost.Infrastructure.AssemblyInfo.cs
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\DinnerHost.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\DinnerHost.Infrastructure.csproj.CopyComplete
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\DinnerHost.Infrastructure.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\refint\DinnerHost.Infrastructure.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\DinnerHost.Infrastructure.pdb
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\ref\DinnerHost.Infrastructure.dll

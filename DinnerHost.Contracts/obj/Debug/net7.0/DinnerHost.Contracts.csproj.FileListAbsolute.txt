@@ -1,0 +1,11 @@
+D:\Projects\hostdinner\hostdinner\DinnerHost.Contracts\bin\Debug\net7.0\DinnerHost.Contracts.deps.json
+D:\Projects\hostdinner\hostdinner\DinnerHost.Contracts\bin\Debug\net7.0\DinnerHost.Contracts.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Contracts\bin\Debug\net7.0\DinnerHost.Contracts.pdb
+D:\Projects\hostdinner\hostdinner\DinnerHost.Contracts\obj\Debug\net7.0\DinnerHost.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\hostdinner\hostdinner\DinnerHost.Contracts\obj\Debug\net7.0\DinnerHost.Contracts.AssemblyInfoInputs.cache
+D:\Projects\hostdinner\hostdinner\DinnerHost.Contracts\obj\Debug\net7.0\DinnerHost.Contracts.AssemblyInfo.cs
+D:\Projects\hostdinner\hostdinner\DinnerHost.Contracts\obj\Debug\net7.0\DinnerHost.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\hostdinner\hostdinner\DinnerHost.Contracts\obj\Debug\net7.0\DinnerHost.Contracts.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Contracts\obj\Debug\net7.0\refint\DinnerHost.Contracts.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Contracts\obj\Debug\net7.0\DinnerHost.Contracts.pdb
+D:\Projects\hostdinner\hostdinner\DinnerHost.Contracts\obj\Debug\net7.0\ref\DinnerHost.Contracts.dll

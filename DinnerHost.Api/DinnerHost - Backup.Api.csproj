@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\DinnerHost.Contracts\DinnerHost.Contracts.csproj" />
+    <ProjectReference Include="..\DinnerHost.Application\DinnerHost.Application.csproj" />
+    <ProjectReference Include="..\DinnerHost.Infrastructure\DinnerHost.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
