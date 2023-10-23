@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "awQQDuDOXSdODMJKa4dsnZdDqBrsZw61HUB9k2yEjaw00khsIu6OZSyYSIzXfVtdbk9V+ytTvSiWaZEALcuyIg==",
+  "dgSpecHash": "QZlnJLFFUpElFG9hJboOgKjiyQcBZ5lFzbz5fYgkTVbsXi1lhBAwV88/TK4NREvHxWIJ4dbgpxHxmVNJ7xloaQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\hostdinner\\hostdinner\\DinnerHost.Application\\DinnerHost.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Brook\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

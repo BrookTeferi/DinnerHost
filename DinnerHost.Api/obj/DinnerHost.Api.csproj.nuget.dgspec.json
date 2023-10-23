@@ -104,6 +104,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "D:\\Projects\\hostdinner\\hostdinner\\DinnerHost.Contracts\\DinnerHost.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\hostdinner\\hostdinner\\DinnerHost.Contracts\\DinnerHost.Contracts.csproj"
+              },
               "D:\\Projects\\hostdinner\\hostdinner\\DinnerHost.Domain\\DinnerHost.Domain.csproj": {
                 "projectPath": "D:\\Projects\\hostdinner\\hostdinner\\DinnerHost.Domain\\DinnerHost.Domain.csproj"
               }
@@ -119,6 +122,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -300,6 +309,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -15,3 +15,5 @@ D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\Din
 D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\refint\DinnerHost.Infrastructure.dll
 D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\DinnerHost.Infrastructure.pdb
 D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\obj\Debug\net7.0\ref\DinnerHost.Infrastructure.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\bin\Debug\net7.0\DinnerHost.Contracts.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Infrastructure\bin\Debug\net7.0\DinnerHost.Contracts.pdb

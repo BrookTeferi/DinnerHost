@@ -25,6 +25,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{04C8F34F-8
 		Api.md = Api.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authentication", "Authentication", "{EA26E3A2-8968-4F9C-8A19-428E6A7E76C3}"
+	ProjectSection(SolutionItems) = preProject
+		Login.http = Login.http
+		Register.http = Register.http
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +107,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EBDCD6B8-DDA9-4246-A80C-C53179AA0BF7} = {F9778A6C-DA2F-4E51-A13D-25830158E256}
+		{EA26E3A2-8968-4F9C-8A19-428E6A7E76C3} = {F9778A6C-DA2F-4E51-A13D-25830158E256}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F2921FD0-65C7-4ED3-943C-E586E7F69579}

@@ -1,6 +1,14 @@
+using DinnerHost.Application;
+using DinnerHost.Infrastructure;
+
+
 var builder = WebApplication.CreateBuilder(args);
 {
-    builder.Services.AddControllers();
+    builder.Services
+      
+        .AddApplication()
+        .AddInfrastructure();
+   builder.Services.AddControllers();
 }
 
 var app = builder.Build();
