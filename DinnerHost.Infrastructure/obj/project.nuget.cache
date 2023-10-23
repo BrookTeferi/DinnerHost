@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "PrQJE7942Mu/Sj2vBZw7mYmp9JKwCIgANEI9CCqqNSmuJgCeRVe/uD7Jsmwi3KnCvBpcsaumhmCcwBby4UKR6A==",
+  "dgSpecHash": "SFLoI+qVVjXIR6Qs00XPAb3MzJfZruMIfDm4nCt1gCpMhEJdeng06EF8TEPPAjp4FxG5/QMY7kzKrIXcoFXH0g==",
   "success": true,
   "projectFilePath": "D:\\Projects\\hostdinner\\hostdinner\\DinnerHost.Infrastructure\\DinnerHost.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Brook\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\Brook\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Brook\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.0\\microsoft.identitymodel.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Brook\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.0\\microsoft.identitymodel.jsonwebtokens.7.0.0.nupkg.sha512",
+    "C:\\Users\\Brook\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.0\\microsoft.identitymodel.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Brook\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.0\\microsoft.identitymodel.tokens.7.0.0.nupkg.sha512",
+    "C:\\Users\\Brook\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.0\\system.identitymodel.tokens.jwt.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

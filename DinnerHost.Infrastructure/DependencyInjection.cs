@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using DinnerHost.Application.Common.Authentication;
+using DinnerHost.Infrastructure.Authentication;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace DinnerHost.Infrastructure
 {
@@ -6,6 +8,8 @@ namespace DinnerHost.Infrastructure
     {
         public static IServiceCollection AddInfrastructure(this IServiceCollection services)
         {
+
+            services.AddSingleton<IJWTTokenGenerator, JWTTokenGenerator>();
             
             return services;
         }
