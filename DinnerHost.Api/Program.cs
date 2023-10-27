@@ -4,11 +4,12 @@ using DinnerHost.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 {
+
     builder.Services
-      
         .AddApplication()
-        .AddInfrastructure();
-   builder.Services.AddControllers();
+        .AddInfrastructure(builder.Configuration);
+
+    builder.Services.AddControllers();
 }
 
 var app = builder.Build();
