@@ -33,3 +33,8 @@ D:\Projects\hostdinner\hostdinner\DinnerHost.Api\obj\Debug\net7.0\refint\DinnerH
 D:\Projects\hostdinner\hostdinner\DinnerHost.Api\obj\Debug\net7.0\DinnerHost.Api.pdb
 D:\Projects\hostdinner\hostdinner\DinnerHost.Api\obj\Debug\net7.0\DinnerHost.Api.genruntimeconfig.cache
 D:\Projects\hostdinner\hostdinner\DinnerHost.Api\obj\Debug\net7.0\ref\DinnerHost.Api.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\hostdinner\hostdinner\DinnerHost.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll

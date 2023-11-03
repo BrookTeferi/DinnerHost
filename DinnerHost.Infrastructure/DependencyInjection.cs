@@ -15,10 +15,7 @@ namespace DinnerHost.Infrastructure
         {
 
             var jwtSettings = configuration.GetSection(JwtSettings.SectionName);
-
             services.AddSingleton(jwtSettings);
-
-
             services.AddSingleton<IJWTTokenGenerator, JWTTokenGenerator>();
             services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
             return services;
@@ -28,3 +25,4 @@ namespace DinnerHost.Infrastructure
  
 
 
+ 
