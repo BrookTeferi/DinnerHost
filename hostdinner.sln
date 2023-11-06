@@ -23,6 +23,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{04C8F34F-88F1-4291-AA3B-D56CF40D3F25}"
 	ProjectSection(SolutionItems) = preProject
 		Api.md = Api.md
+		DomainModels.md = DomainModels.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authentication", "Authentication", "{EA26E3A2-8968-4F9C-8A19-428E6A7E76C3}"

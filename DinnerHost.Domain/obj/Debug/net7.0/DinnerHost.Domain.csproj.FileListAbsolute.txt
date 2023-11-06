@@ -9,3 +9,14 @@ D:\Projects\hostdinner\hostdinner\DinnerHost.Domain\obj\Debug\net7.0\DinnerHost.
 D:\Projects\hostdinner\hostdinner\DinnerHost.Domain\obj\Debug\net7.0\refint\DinnerHost.Domain.dll
 D:\Projects\hostdinner\hostdinner\DinnerHost.Domain\obj\Debug\net7.0\DinnerHost.Domain.pdb
 D:\Projects\hostdinner\hostdinner\DinnerHost.Domain\obj\Debug\net7.0\ref\DinnerHost.Domain.dll
+D:\Projects\hostdinner\DinnerHost.Domain\bin\Debug\net7.0\DinnerHost.Domain.deps.json
+D:\Projects\hostdinner\DinnerHost.Domain\bin\Debug\net7.0\DinnerHost.Domain.dll
+D:\Projects\hostdinner\DinnerHost.Domain\bin\Debug\net7.0\DinnerHost.Domain.pdb
+D:\Projects\hostdinner\DinnerHost.Domain\obj\Debug\net7.0\DinnerHost.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\hostdinner\DinnerHost.Domain\obj\Debug\net7.0\DinnerHost.Domain.AssemblyInfoInputs.cache
+D:\Projects\hostdinner\DinnerHost.Domain\obj\Debug\net7.0\DinnerHost.Domain.AssemblyInfo.cs
+D:\Projects\hostdinner\DinnerHost.Domain\obj\Debug\net7.0\DinnerHost.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\hostdinner\DinnerHost.Domain\obj\Debug\net7.0\DinnerHost.Domain.dll
+D:\Projects\hostdinner\DinnerHost.Domain\obj\Debug\net7.0\refint\DinnerHost.Domain.dll
+D:\Projects\hostdinner\DinnerHost.Domain\obj\Debug\net7.0\DinnerHost.Domain.pdb
+D:\Projects\hostdinner\DinnerHost.Domain\obj\Debug\net7.0\ref\DinnerHost.Domain.dll

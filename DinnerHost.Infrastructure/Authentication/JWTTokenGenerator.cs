@@ -1,5 +1,6 @@
 ﻿using DinnerHost.Application.Common.Authentication;
 using DinnerHost.Application.Common.Services;
+using DinnerHost.Domain.Entities;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
@@ -21,15 +22,21 @@ namespace DinnerHost.Infrastructure.Authentication
             _jwtSettings = jwtSettings.Value;
         }
 
-        public string GenerateToken(Guid userId, string firstName, string lastName)
+        public string GenerateToken(User user)
         {
+
+            if (_jwtSettings.Secret == null)
+            {
+                throw new ArgumentNullException(nameof(_jwtSettings.Secret), "JWT secret is null");
+            }
+
             var signingCredentials = new SigningCredentials(new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.Secret)),
           SecurityAlgorithms.HmacSha256);
             var claims = new List<Claim>
                 {
-                    new Claim(JwtRegisteredClaimNames.Sub, userId.ToString()),
-                    new Claim(JwtRegisteredClaimNames.GivenName, firstName),
-                    new Claim(JwtRegisteredClaimNames.FamilyName, lastName),
+                    new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
+                    new Claim(JwtRegisteredClaimNames.GivenName, user.FirstName),
+                    new Claim(JwtRegisteredClaimNames.FamilyName, user.LastName),
                     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
                 };
 
